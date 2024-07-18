@@ -1,0 +1,6 @@
+@TestGymBot.API_HostAddress = http://localhost:5033
+
+GET {{TestGymBot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
